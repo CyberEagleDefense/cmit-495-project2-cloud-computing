@@ -1,6 +1,6 @@
 # CMIT 495 - Project 2: Cloud Computing
 
-**Student:** Grace  
+**Student:** Aron 
 **Date:** March 25, 2026  
 **Course:** CMIT 495 Current Trends and Projects in Computer Networks and Security
 
